@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # setup-touchscreen.sh
-# Recreates the touchscreen + kiosk display setup on a Raspberry Pi 5
-# running Raspberry Pi OS (Bookworm) with labwc/Wayland.
+# Recreates the touchscreen + kiosk display setup on a Raspberry Pi
+# running Raspberry Pi OS (Bookworm) with labwc/Wayland on a Samsung Hub Display from a refrigerator..
 #
 # Hardware: ILI251x USB touchscreen on a 1920x1080 HDMI display, rotated 270°
 # Purpose:  Home Assistant kiosk (portrait mode) with working touch input
