@@ -1,6 +1,6 @@
 # Raspberry Pi Touchscreen Kiosk Setup
 
-Set up and calibrate a touchscreen on a Raspberry Pi 5 running Raspberry Pi OS Bookworm (Wayland/labwc) for use as a portrait-mode kiosk (e.g., Home Assistant dashboard).
+Set up and calibrate a Samsung Hub touchscreen display on a Raspberry Pi 5 running Raspberry Pi OS Bookworm (Wayland/labwc) for use as a portrait-mode kiosk (e.g., Home Assistant dashboard).
 
 ## Hardware
 
